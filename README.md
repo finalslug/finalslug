@@ -1,6 +1,6 @@
 ### Hi there 👋
 👯 I’m looking to collaborate on ......
-<br>
+<br />
 💬 Ask me about ...
 
 <!--
